@@ -11,7 +11,7 @@ Este projeto automatiza a geração de **planos de ação** a partir de **relat�
 
 A aplicação realiza a leitura de arquivos PDF, extrai informações relevantes como **Não Conformidades (NC)** e **indicadores de risco**, e gera automaticamente **planilhas Excel estruturadas**, reduzindo tempo, retrabalho e erros manuais.
 
-O projeto foi desenvolvido com foco em **usuários leigos**, oferecendo uma interface simples e objetiva.
+O projeto foi desenvolvido com foco em **usuários com pouco conhecimento de TI**, oferecendo uma interface simples e objetiva.
 
 ---
 
